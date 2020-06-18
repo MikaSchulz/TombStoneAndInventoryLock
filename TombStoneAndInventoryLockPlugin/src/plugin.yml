@@ -1,0 +1,8 @@
+name: TombStoneAndInventoryLockPlugin
+author: MysteriousHacks
+version: 1.0
+api-version: 1.15
+softdepend: [HolographicDisplays]
+
+main: de.mysterioushacks.tombstoneandinventorylock.TombStoneAndInventoryLock
+
