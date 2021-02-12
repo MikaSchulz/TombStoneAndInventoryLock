@@ -30,5 +30,5 @@ You can download the latest version [here](https://workupload.com/file/986Jn9zZF
 git clone https://github.com/MikaSchulz/TombStoneAndInventoryLock
 ```
 
-## Support
-Join my discord [here](http://discord.gg/3eFzmJs) or write an email to [mika.schulz@yahoo.de](mailto:mika.schulz@yahoo.de)
+# Contact
+You can contact me at [eyetealer@gmail.com](mailto:eyetealer@gmail.com).
